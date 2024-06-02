@@ -1,3 +1,0 @@
-import GuessTheNumber
-
-GuessTheNumber.guessTheNumber()
