@@ -1,0 +1,3 @@
+import GuessTheNumber
+
+GuessTheNumber.guessTheNumber()
